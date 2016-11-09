@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - conda >=4.1.12
   - jpeg >=9b
   - gdal
   - pythreejs
